@@ -26,6 +26,6 @@ Cada dia mais instrumentos e medidores estão sendo equipados com interfaces web
 Um exemplo disso é o sensor modelo [T3510](https://www.cometsystem.com/products/web-sensor-remote-thermometer-hygrometer-with-ethernet-interface/reg-t3510#manuals) da Comet Sytem:
 
 <div align="center">
-  <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem1.png" alt="comet-system" height="250" width="700">
+  <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem2.png" alt="comet-system" height="250" width="700">
 </div>
 
