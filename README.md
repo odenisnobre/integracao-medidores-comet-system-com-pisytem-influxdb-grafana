@@ -45,3 +45,13 @@ Possui também dois protocolos principais para consultas e integração disponí
 	<div>
 		<img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem3.png" alt="comet-system" height="250" width="400">
 	</div>
+	
+Com todas essas informações já podemos partir para as configurações.
+Algumas definições nós já temos:
+1) Historiadores:
+	1.1) PI System OSISoft
+	1.2) Influxdb
+2) Visualização de dados:
+	2.1) Grafana
+3) Gateway de conexão/integração:
+	3.1) Node-red
