@@ -47,11 +47,16 @@ Possui também dois protocolos principais para consultas e integração disponí
 	</div>
 	
 Com todas essas informações já podemos partir para as configurações.
-Algumas definições nós já temos:
+Com as ferramentas definidas, temos a seguinte situação configurada e rodando em um mesmo servidor Windows Server 2016:
 + Historiadores:
-	+ PI System OSISoft
+	+ PI System - OSISoft
 	+ Influxdb
 + Visualização de dados:
 	+ Grafana
 + Gateway de conexão/integração:
 	+ Node-red
+	
+O Node-red será nosso orquestrador de dados, ou seja, ele que irá fazer as consultas e envio de informações.
+Para envio dos dados para o PI System iremos utilizar o PI Web API. Aqui no meu github tem vários diretórios mostrando o uso do PI Web API.
+Vamos focar mais no envido dados para o Influxdb.
+
