@@ -48,10 +48,10 @@ Possui também dois protocolos principais para consultas e integração disponí
 	
 Com todas essas informações já podemos partir para as configurações.
 Algumas definições nós já temos:
-1) Historiadores:
-	1.1) PI System OSISoft
-	1.2) Influxdb
-2) Visualização de dados:
-	2.1) Grafana
-3) Gateway de conexão/integração:
-	3.1) Node-red
+1. Historiadores:
+	1.1 PI System OSISoft
+	1.2 Influxdb
+2. Visualização de dados:
+	2.1 Grafana
+3. Gateway de conexão/integração:
+	3.1 Node-red
