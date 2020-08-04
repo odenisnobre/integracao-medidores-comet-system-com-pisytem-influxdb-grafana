@@ -4,7 +4,7 @@
 Integração Medidores Comet System com PI System, Influxdb e Grafana
 </h1>
 
-<p align="center">Integração medidores da Comet System com historiador da OSISoft PI System para historizar os valores e visualizar os mesmos através do Grafana. Expandindo também as funcionalidades mostrando també como enviar os mesmos dados para Influxdb para serem historizados também.</p>
+Integração medidores da [Comet System](https://www.cometsystem.com/) com historiador da OSISoft - PI System - e visualizar os mesmos através do Grafana. Expandindo também as funcionalidades mostrando també como enviar os mesmos dados para Influxdb para serem historizados também.
 
 <p align="center">
   <a href="https://www.apache.org/licenses/LICENSE-2.0">
