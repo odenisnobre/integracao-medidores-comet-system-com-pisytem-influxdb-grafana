@@ -23,7 +23,7 @@ Integração medidores da [Comet System](https://www.cometsystem.com/) com histo
 
 Que a conectividade está vindo para facilitar a visualização e disponibilização dos dados isto já é realidade em vários segmentos como um todos.
 Cada dia mais instrumentos e medidores estão sendo equipados com interfaces web de programação e visualização de dados com isso sendo conectados diretamente a redes corporativas ou redes do tipo DMZ de modo que estes valores seja disponibilizados para outros sistemas e/ou ferramentas.
-Um exemplo disso é o sensor modelo T3510 da Comet Sytem:
+Um exemplo disso é o sensor modelo [T3510](https://www.cometsystem.com/products/web-sensor-remote-thermometer-hygrometer-with-ethernet-interface/reg-t3510#manuals) da Comet Sytem:
 
 <div align="center">
   <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem1.png" alt="comet-system" height="250" width="700">
