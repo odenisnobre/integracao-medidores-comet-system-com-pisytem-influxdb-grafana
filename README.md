@@ -39,9 +39,9 @@ Possui também dois protocolos principais para consultas e integração disponí
 
 1) **SOAP**: que se encontra desabilitado para este caso em específico
 	<div>
-		<img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem4.png" alt="comet-system" height="250" width="500">
+		<img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem4.png" alt="comet-system" height="250" width="400">
 	</div>
 2) **Modbus TCP**: que será nosso caso de estudo
 	<div>
-		<img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem3.png" alt="comet-system" height="250" width="500">
+		<img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem3.png" alt="comet-system" height="250" width="400">
 	</div>
