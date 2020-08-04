@@ -36,11 +36,12 @@ O T3510 além de possuir uma interface web para parametrização e visualizaçã
 </div>
 
 Possui também dois protocolos principais para consultas e integração disponíveis:
-1) SOAP: que se encontra desabilitado para este caso em específico
+
+1) **SOAP**: que se encontra desabilitado para este caso em específico
 	<div>
 		<img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem4.png" alt="comet-system" height="250" width="500">
 	</div>
-2) Modbus TCP: que será nosso caso de estudo
+2) **Modbus TCP**: que será nosso caso de estudo
 	<div>
 		<img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem3.png" alt="comet-system" height="250" width="500">
 	</div>
