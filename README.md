@@ -82,3 +82,14 @@ Em seguinda, adicionado item para monitoramento no Grafana:
   <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem8.png" alt="comet-system" height=400" width="500">
 </div>
 
+
+## Conclusão
+
+Este é mais um exemplo típico de integração utilizando teclogias de ponta usando Softwares OpenSource o que mostra o poder do OpenSource para integração de sistemas e entrega de dados e informações que podemos auxiliar, em tempo real, a tomada de decisões em processos produtivos.
+
+O conjunto *Node-red* - *Influxdb* - *Grafana* tem se mostrado muito eficiente na entrega de resultados quando o assunto é integração focada na Indústria 4.0.
+
+
+## Help
+
+Caso precisem te ajuda ou tenham alguma sugestão, deixe seu comentário [Aqui](https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/issues).
