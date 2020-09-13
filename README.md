@@ -76,4 +76,9 @@ O bloco marcado acima é a extração dos dados de temperatura e umidade e envio
 
 Os blocos a parte são o envio dos dados para o Influxdb.
 
+Em seguinda, adicionado item para monitoramento no Grafana:
+
+<div>
+  <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem8.png" alt="comet-system" height=400" width="500">
+</div>
 
