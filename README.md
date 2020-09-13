@@ -68,7 +68,7 @@ A configuração de integração via Modbus fica conforme imagem abaixo:
 A configuração Modbus fica da seguinte forma:
 
 <div>
-  <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem7.png" alt="comet-system" height=500" width="300">
+  <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem7.png" alt="comet-system" height=400" width="500">
 </div>
 
 
