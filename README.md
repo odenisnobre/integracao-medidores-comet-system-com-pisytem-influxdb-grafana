@@ -62,5 +62,5 @@ Vamos focar mais no envido dados para o Influxdb.
 
 A configuração de integração via Modbus fica conforme imagem abaixo:
 <div>
-  <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem6.png" alt="comet-system" height="250" width="500">
+  <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem6.png" alt="comet-system" height="250" width="1000">
 </div>
