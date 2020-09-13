@@ -68,8 +68,9 @@ A configuração de integração via Modbus fica conforme imagem abaixo:
 A configuração Modbus fica da seguinte forma:
 
 <div>
-  <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem7.png" alt="comet-system" height=700" width="500">
+  <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem7.png" alt="comet-system" height=500" width="300">
 </div>
+
 
 O bloco marcado acima é a extração dos dados de temperatura e umidade e envio para PI Web API.
 
