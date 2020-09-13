@@ -60,3 +60,7 @@ O Node-red será nosso orquestrador de dados, ou seja, ele que irá fazer as con
 Para envio dos dados para o PI System iremos utilizar o PI Web API. Aqui no meu github tem vários diretórios mostrando o uso do PI Web API.
 Vamos focar mais no envido dados para o Influxdb.
 
+A configuração de integração via Modbus fica conforme imagem abaixo:
+<div>
+  <img src="https://github.com/dedynobre/integracao-medidores-comet-system-com-pisytem-influxdb-grafana/blob/master/imagem6.png" alt="comet-system" height="250" width="500">
+</div>
